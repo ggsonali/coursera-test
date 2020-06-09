@@ -83,7 +83,6 @@ body{
 			.cd-sd-12{
 				width: 100% 
 			}
-
 			.s1 {
 				width: auto;
 				padding: 2px 30px 2px 30px;
@@ -96,4 +95,29 @@ body{
 				width: auto;
 				padding: 2px 43px 2px 43px;
 			}
+
+		}
+
+
+			}  
+		@media (max-width: 210px) {
+			.cd-sd-12 {
+				float: left;
+			}
+			.cd-sd-12{
+				width: 100% 
+			}
+			.s1 {
+				width: 100%;
+				padding: 2px;
+			}
+			.s2 {
+				width: 100%;
+				padding: 2px;
+			}
+			.s3 {
+				width: 100%;
+				padding: 2px;
+			}
+
 		}
