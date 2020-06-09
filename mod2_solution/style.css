@@ -76,7 +76,7 @@ body{
 			}
 			
 		}  
-		@media (max-width: 767px) {
+		@media (max-width: 767px) and (min-width: 211px) {
 			.cd-sd-12 {
 				float: left;
 			}
