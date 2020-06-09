@@ -83,4 +83,17 @@ body{
 			.cd-sd-12{
 				width: 100% 
 			}
+
+			.s1 {
+				width: auto;
+				padding: 2px 30px 2px 30px;
+			}
+			.s2 {
+				width: auto;
+				padding: 2px 48px 2px 48px;
+			}
+			.s3 {
+				width: auto;
+				padding: 2px 43px 2px 43px;
+			}
 		}
