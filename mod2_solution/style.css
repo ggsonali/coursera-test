@@ -83,19 +83,7 @@ body{
 			.cd-sd-12{
 				width: 100% 
 			}
-			.s1 {
-				width: auto;
-				padding: 2px 30px 2px 30px;
-			}
-			.s2 {
-				width: auto;
-				padding: 2px 48px 2px 48px;
-			}
-			.s3 {
-				width: auto;
-				padding: 2px 43px 2px 43px;
-			}
-
+			
 		}
 
 
@@ -107,17 +95,21 @@ body{
 			.cd-sd-12{
 				width: 100% 
 			}
-			.s1 {
-				width: 100%;
-				padding: 2px;
+
+			body{
+				font-size: 80%;
 			}
-			.s2 {
-				width: 100%;
-				padding: 2px;
+			h1{
+				font-size: 1.75em;
 			}
-			.s3 {
-				width: 100%;
-				padding: 2px;
+			p{
+				font-size: 1em;
 			}
 
+			.s1, .s2 , .s3 {
+				padding: 2px;
+				font-size:1.25em;
+				width: auto; 
+			}
+			
 		}
