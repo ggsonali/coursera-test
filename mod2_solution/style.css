@@ -19,7 +19,7 @@ body{
 			position: relative;
 			background-color: grey;
 			border: 1px solid black;
-			margin: 20px;
+			margin: 12px;
 		}  
 		
 		
@@ -87,29 +87,4 @@ body{
 		}
 
 
-			}  
-		@media (max-width: 210px) {
-			.cd-sd-12 {
-				float: left;
-			}
-			.cd-sd-12{
-				width: 100% 
-			}
-
-			body{
-				font-size: 80%;
-			}
-			h1{
-				font-size: 1.75em;
-			}
-			p{
-				font-size: 1em;
-			}
-
-			.s1, .s2 , .s3 {
-				padding: 2px;
-				font-size:1.25em;
-				width: auto; 
-			}
-			
-		}
+		
