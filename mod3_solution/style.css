@@ -47,7 +47,7 @@ hr{
 @media (min-width: 183px) and (max-width: 254px){
 #collapsable-nav{
   background-color: rgb(80,80,255); 
-  margin: -20px;   
+  
 }
 #top{
   margin: 0px;
